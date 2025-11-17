@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define a fonte padrão "Inter" se não estiver usando um CSS framework */
+body {
+  font-family: 'Inter', sans-serif;
+}
